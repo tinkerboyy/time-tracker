@@ -6,3 +6,4 @@ Spring Boot App with Microservices
 2. git clone the forked repo
 3. maven - update project
 4. Run as Spring Boot App
+5. Go to [Hello Spring Boot](http://localhost:9000/)
